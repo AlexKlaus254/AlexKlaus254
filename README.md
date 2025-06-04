@@ -33,7 +33,7 @@
 ## Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,scikit-learn,matplotlib,seaborn,git,github,vscode,react,tailwind,figma,sql,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=python,ai,r,tensorflow,anaconda,pytorch,postman,aws,sqlite,git,github,vscode,react,tailwind,figma,postgresql,docker,kubernetes,blender,pycharm,linux,notion,jira" />
 </p>
 
 ---
@@ -44,7 +44,6 @@
 📌 Cleaned and structured raw survey and audio datasets  
 📌 Built pipelines to detect speaker similarity with ML and signal processing  
 📌 Delivered interactive visualizations and dashboards using Power BI and React  
-🔗 [View Repository](https://github.com/AlexKlaus254/biotech-nlp-pipeline) *(update this link if needed)*
 
 ---
 
