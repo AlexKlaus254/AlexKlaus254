@@ -1,18 +1,24 @@
 <!-- README.md for AlexKlaus254 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="50" alt="Smiley" />
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="60" alt="Smiley Welcome" />
 </p>
 
 <h1 align="center">Hi, I'm Alex Mwangi Ndungu</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=I'm+a+tech+enthusiast+on+a+mission;Turning+data+into+decisions;+Code+into+impactful+solutions;Welcome+to+my+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Tech+enthusiast+on+a+mission;Turning+data+into+decisions;+Code+into+impactful+solutions;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </a>
 </p>
 
- ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-Driven-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Nairobi%2C%20Kenya-Based-informational?style=for-the-badge&logo=mapbox" />
+  <img src="https://img.shields.io/badge/ReactJS-%2B%20FastAPI-007ACC?style=for-the-badge&logo=react" />
+</p>
+
+---
 
 ## About Me
 
