@@ -142,28 +142,21 @@
   <img src="https://github.com/AlexKlaus254/AlexKlaus254/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<!-- Main stats & streak -->
+<!-- Main Stats + Streak -->
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AlexKlaus254&show_icons=true&theme=radical&border_radius=15" alt="GitHub Stats" />
-  <img width="45%" src="https://github-readme-streak-stats.demolab.com?user=AlexKlaus254&theme=radical&border_radius=15" alt="GitHub Streak" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AlexKlaus254&show_icons=true&theme=tokyonight&border_radius=15" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexKlaus254&theme=tokyonight&border_radius=15" alt="GitHub Streak" />
 </p>
 
-<!-- Top languages -->
+<!-- Top Languages -->
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKlaus254&layout=compact&theme=radical&border_radius=15" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKlaus254&layout=compact&theme=tokyonight&border_radius=15" alt="Top Languages" />
 </p>
 
-<!-- Commits calendar -->
+<!-- GitHub Trophies -->
 <p align="center">
-  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=AlexKlaus254&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexKlaus254&theme=github&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
 </p>
-
-<!-- GitHub trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlexKlaus254&theme=radical&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-
 
 
 ---
