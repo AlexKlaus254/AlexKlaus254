@@ -23,10 +23,10 @@
 
 ## 👨‍💻 About Me
 
-**IT Professional** with a background in **data processing**, **QA engineering**, and **machine learning-driven automation**.  
-Passionate about building **smart, scalable, and accurate systems** that bridge data and user experience.  
-Strong in **data validation**, **predictive modeling**, and **real-time visualizations**.  
-A continuous learner diving deep into **NLP**, **ML integration**, and **modern frontend engineering**.
+- **IT Professional** with a background in **data processing**, **QA engineering**, and **machine learning-driven automation**.  
+- Passionate about building **smart, scalable, and accurate systems** that bridge data and user experience.  
+- Strong in **data validation**, **predictive modeling**, and **real-time visualizations**.  
+- A continuous learner diving deep into **NLP**, **ML integration**, and **modern frontend engineering**.
 
 ---
 
