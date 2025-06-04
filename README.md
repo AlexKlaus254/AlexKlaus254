@@ -188,12 +188,6 @@
         <sub><b>Portfolio</b></sub>
       </a>
     </td>
-    <td align="center" style="border: none; padding: 20px;">
-      <a href="https://github.com/AlexKlaus254" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br/>
-        <sub><b>GitHub</b></sub>
-      </a>
-    </td>
   </tr>
 </table>
 
