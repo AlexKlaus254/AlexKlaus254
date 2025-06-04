@@ -50,37 +50,84 @@
 
 ---
 
-## Languages & Tools
+## 🛠️ Languages & Tools
 
-### Programming & Scripting
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,javascript,typescript,sql,bash,vba" alt="Languages" />
-</p>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  
+  <tr>
+    <td><strong>Programming & Scripting</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+      <img src="https://skillicons.dev/icons?i=r" title="R"/>
+      <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript"/>
+      <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript"/>
+      <img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><strong>Machine Learning & Data Science</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/>
+      <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
+      <img src="https://skillicons.dev/icons?i=scikitlearn" title="Scikit-learn"/>
+      <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda"/>
+      <img src="https://skillicons.dev/icons?i=numpy" title="NumPy"/>
+      <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><strong>Cloud & DevOps</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
+      <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+      <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
+      <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+      <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+      <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><strong>Frontend & UI/UX</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" title="ReactJS"/>
+      <img src="https://skillicons.dev/icons?i=tailwindcss" title="Tailwind CSS"/>
+      <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
+      <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
+      <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL"/>
+      <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite"/>
+      <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+      <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><strong>IDEs & Productivity</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+      <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm"/>
+      <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+      <img src="https://skillicons.dev/icons?i=notion" title="Notion"/>
+      <img src="https://skillicons.dev/icons?i=jira" title="Jira"/>
+      <img src="https://skillicons.dev/icons?i=slack" title="Slack"/>
+    </td>
+  </tr>
 
-### Machine Learning & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,pandas,numpy,matplotlib,seaborn,jupyter" alt="ML & DS Tools" />
-</p>
+</table>
 
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,terraform" alt="Cloud & DevOps" />
-</p>
-
-### Frontend & UI/UX
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwindcss,figma,css,html" alt="Frontend & UI/UX" />
-</p>
-
-### Databases & Data Storage
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql,mongodb,redis" alt="Databases" />
-</p>
-
-### IDEs & Productivity
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,notion,jira,slack" alt="IDEs & Productivity" />
-</p>
 
 ---
 
