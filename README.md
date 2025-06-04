@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Data%20Science-Driven-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Nairobi%2C%20Kenya-Based-informational?style=for-the-badge&logo=mapbox" />
   <img src="https://img.shields.io/badge/ReactJS+FastAPI-Full%20Stack-007ACC?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/QC%20-Quality%20First-green?style=for-the-badge&logo=pytest" />
+  <img src="https://img.shields.io/badge/QC%20-Quality%20Control-green?style=for-the-badge&logo=pytest" />
 </p>
 
 ---
