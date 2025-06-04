@@ -167,29 +167,36 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Let's+Create+Something+Awesome!;" alt="Typing SVG" /></a>
   </p>
 
-<div align="center">
-  <div style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 40px;
-    padding: 20px 0;
-  ">
-    <a href="mailto:alexklausofficial@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" style="min-width: 48px;" />
-    </a>
-    <a href="https://www.linkedin.com/in/alex-mwangi-klaus-254724008885-ke/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" style="min-width: 48px;" />
-    </a>
-    <a href="https://alexmwangiportfolio.netlify.app/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="48" style="min-width: 48px;" />
-    </a>
-    <a href="https://github.com/AlexKlaus254" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" style="min-width: 48px;" />
-    </a>
-  </div>
-</div>
+
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: none; padding: 20px;">
+      <a href="mailto:alexklausofficial@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /><br/>
+        <sub><b>Email</b></sub>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <a href="https://www.linkedin.com/in/alex-mwangi-klaus-254724008885-ke/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /><br/>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <a href="https://alexmwangiportfolio.netlify.app/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Portfolio" /><br/>
+        <sub><b>Portfolio</b></sub>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <a href="https://github.com/AlexKlaus254" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br/>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
