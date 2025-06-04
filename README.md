@@ -114,20 +114,20 @@
     </td>
   </tr>
   
-  <tr>
-    <td><strong>IDEs & Productivity</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
-      <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm"/>
-      <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
-      <img src="https://skillicons.dev/icons?i=notion" title="Notion"/>
-      <img src="https://skillicons.dev/icons?i=jira" title="Jira"/>
-      <img src="https://skillicons.dev/icons?i=slack" title="Slack"/>
-    </td>
-  </tr>
+<tr>
+  <td><strong>IDEs & Productivity</strong></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+    <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm"/>
+    <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+    <img src="https://skillicons.dev/icons?i=notion" title="Notion"/>
+    <img src="https://static-00.iconduck.com/assets.00/jira-icon-2048x2048-nmec2job.png" width="34" title="Jira" />
+    <img src="https://logowik.com/content/uploads/images/slack-icon1721339195.logowik.com.webp" width="34" title="Slack" />
+  </td>
+</tr>
+
 
 </table>
-
 
 ---
 
@@ -151,10 +151,10 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKlaus254&layout=compact&theme=default&border_radius=10" />
 </p>
 
-<!-- Snake Game Animation
+<!-- Snake Game Animation-->
 <p align="center">
   <img src="https://github.com/AlexKlaus254/AlexKlaus254/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p> -->
+</p> 
 
 ---
 
