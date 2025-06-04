@@ -1,16 +1,26 @@
 <!-- README.md for AlexKlaus254 -->
 
-# Hi, I'm Alex Mwangi Ndungu
+<p align="center">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="50" alt="Smiley" />
+</p>
+
+<h1 align="center">Hi, I'm Alex Mwangi Ndungu</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=I'm+a+tech+enthusiast+on+a+mission;Turning+data+into+decisions;+Code+into+impactful+solutions;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  </a>
+</p>
+
+ ---
+
+## About Me
 
 🎓 Mathematics & Computer Science graduate  
 🔍 Data Analyst | QA Engineer | Technical Project Manager  
 📍 Based in Nairobi, Kenya  
 💡 Passionate about Data Science, AI/ML, and building smart, scalable solutions  
-🌐 Currently exploring NLP, Machine Learning, and Intelligent Frontend Apps  
-
----
-
-## About Me
+🌐 Currently exploring NLP, Machine Learning, and Intelligent Frontend Apps 
 
 - Data-driven problem solver with strong QA engineering experience  
 - Skilled in data pipelines, frontend dashboards, and real-world ML integration  
@@ -67,6 +77,9 @@
 
 
 ## Connect with Me 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Alex;Data+Craftsman+%7C+Tech+Builder;Let's+Create+Something+Awesome;" alt="Typing SVG" /></a>
+  </p>
 <h2 align="left">🌐 Let's Connect</h2>
 <p align="center">  
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" alt="Hi animated waving hand" />
@@ -93,9 +106,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Alex;Data+Craftsman+%7C+Tech+Builder;Let's+Create+Something+Awesome;" alt="Typing SVG" /></a>
-  </p>
+
 
 
 <p align="center">
