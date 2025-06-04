@@ -164,43 +164,23 @@
 
 ## Connect with Me 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Alex;Data+Craftsman+%7C+Tech+Builder;Let's+Create+Something+Awesome;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Let's+Create+Something+Awesome!;" alt="Typing SVG" /></a>
   </p>
-<h2 align="left">🌐 Let's Connect</h2>
-<p align="center">  
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" alt="Hi animated waving hand" />
-</p>
-
-<style>
-  a:hover img {
-    transform: scale(1.08);
-    transition: transform 0.3s ease-in-out;
-  }
-</style>
-
-
 
 <p align="center">
   <a href="mailto:alexklausofficial@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48" style="margin: 0 20px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/alex-mwangi-klaus-254724008885-ke/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" style="margin: 0 20px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://alexmwangiportfolio.netlify.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=netlify" alt="Portfolio" width="48" height="48" style="margin: 0 20px;">
+    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/AlexKlaus254" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="Hi" />
-</p>
-
-
-
 
 
 ---
