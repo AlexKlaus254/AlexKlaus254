@@ -52,8 +52,34 @@
 
 ## Languages & Tools
 
+### Programming & Scripting
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ai,r,tensorflow,anaconda,pytorch,postman,aws,sqlite,git,github,vscode,react,tailwind,figma,postgresql,docker,kubernetes,blender,pycharm,linux,notion,jira" />
+  <img src="https://skillicons.dev/icons?i=python,r,javascript,typescript,sql,bash,vba" alt="Languages" />
+</p>
+
+### Machine Learning & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,pandas,numpy,matplotlib,seaborn,jupyter" alt="ML & DS Tools" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,terraform" alt="Cloud & DevOps" />
+</p>
+
+### Frontend & UI/UX
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwindcss,figma,css,html" alt="Frontend & UI/UX" />
+</p>
+
+### Databases & Data Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql,mongodb,redis" alt="Databases" />
+</p>
+
+### IDEs & Productivity
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,notion,jira,slack" alt="IDEs & Productivity" />
 </p>
 
 ---
