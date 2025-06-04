@@ -15,34 +15,38 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-Driven-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Nairobi%2C%20Kenya-Based-informational?style=for-the-badge&logo=mapbox" />
-  <img src="https://img.shields.io/badge/ReactJS-%2B%20FastAPI-007ACC?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/ReactJS+FastAPI-Full%20Stack-007ACC?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/QC%20-Quality%20First-green?style=for-the-badge&logo=pytest" />
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-🎓 Mathematics & Computer Science graduate  
-🔍 Data Analyst | QA Engineer | Technical Project Manager  
-📍 Based in Nairobi, Kenya  
-💡 Passionate about Data Science, AI/ML, and building smart, scalable solutions  
-🌐 Currently exploring NLP, Machine Learning, and Intelligent Frontend Apps 
-
-- Data-driven problem solver with strong QA engineering experience  
-- Skilled in data pipelines, frontend dashboards, and real-world ML integration  
-- Experienced in delivering results across startups, NGOs, and enterprise teams  
-- Adept at turning business needs into working prototypes through data and code  
+**IT Professional** with a background in **data processing**, **QA engineering**, and **machine learning-driven automation**.  
+Passionate about building **smart, scalable, and accurate systems** that bridge data and user experience.  
+Strong in **data validation**, **predictive modeling**, and **real-time visualizations**.  
+A continuous learner diving deep into **NLP**, **ML integration**, and **modern frontend engineering**.
 
 ---
 
-## Interests
+## 💡 What Defines Me
+
+- **Optimized Validation**: Reduced manual audio QA by 40% using ML + signal processing (SNR, saturation).
+- **Full Stack Synergy**: ReactJS + FastAPI for seamless data dashboards with real-time sync.
+- **Containers for Scale**: Docker & Kubernetes for reproducible, efficient data workflows.
+- **Impact-Driven Models**: 80%+ accurate predictive analytics for real-world inventory decisions.
+- **Project Leadership**: Delivered 100% sprint goals as Tech PM at Paramount Students with Jira + Vercel CI/CD.
+
+---
+## 🔥 What I Love Working On
 
 - Data Analysis & Predictive Modeling  
-- Data Quality Automation & QA  
+- Automated QA & Data Validation Systems  
 - AI-Powered Dashboards & Visualization  
-- NLP Workflows for Text Summarization  
-- Full-Stack Prototyping (ReactJS + FastAPI)  
-- Real-time Data Systems & ML Integrations  
+- NLP & Text Summarization Workflows  
+- Full-Stack Prototyping  
+- Real-time Systems & Machine Learning Integrations
 
 ---
 
