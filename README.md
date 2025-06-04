@@ -30,7 +30,7 @@
 
 ---
 
-## 💡 What Defines Me
+## What Defines Me
 
 - **Optimized Validation**: Reduced manual audio QA by 40% using ML + signal processing (SNR, saturation).
 - **Full Stack Synergy**: ReactJS + FastAPI for seamless data dashboards with real-time sync.
@@ -39,7 +39,7 @@
 - **Project Leadership**: Delivered 100% sprint goals as Tech PM at Paramount Students with Jira + Vercel CI/CD.
 
 ---
-## 🔥 What I Love Working On
+## What I Love Working On
 
 - Data Analysis & Predictive Modeling  
 - Automated QA & Data Validation Systems  
@@ -50,7 +50,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <table>
   <tr>
