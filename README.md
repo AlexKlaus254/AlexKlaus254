@@ -131,30 +131,40 @@
 
 ---
 
-## Featured Projects
-
-### Data Processing & Insight Extraction
-📌 Cleaned and structured raw survey and audio datasets  
-📌 Built pipelines to detect speaker similarity with ML and signal processing  
-📌 Delivered interactive visualizations and dashboards using Power BI and React  
-
----
-
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AlexKlaus254&show_icons=true&theme=default&border_radius=10" />
-  <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=AlexKlaus254&theme=default&border_radius=10" />
+  <img src="https://komarev.com/ghpvc/?username=AlexKlaus254&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKlaus254&layout=compact&theme=default&border_radius=10" />
-</p>
-
-<!-- Snake Game Animation-->
+<!-- Snake Game Animation -->
 <p align="center">
   <img src="https://github.com/AlexKlaus254/AlexKlaus254/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p> 
+</p>
+
+<!-- Main stats & streak -->
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AlexKlaus254&show_icons=true&theme=radical&border_radius=15" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-streak-stats.demolab.com?user=AlexKlaus254&theme=radical&border_radius=15" alt="GitHub Streak" />
+</p>
+
+<!-- Top languages -->
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKlaus254&layout=compact&theme=radical&border_radius=15" alt="Top Languages" />
+</p>
+
+<!-- Commits calendar -->
+<p align="center">
+  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=AlexKlaus254&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<!-- GitHub trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexKlaus254&theme=radical&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+
+
 
 ---
 
@@ -202,6 +212,4 @@
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AlexKlaus254&label=Profile%20views&color=0e75b6&style=flat" alt="AlexKlaus254" />
-</p>
+
