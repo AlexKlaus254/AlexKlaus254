@@ -58,26 +58,53 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKlaus254&layout=compact&theme=default&border_radius=10" />
 </p>
 
-<!-- Snake Game Animation -->
+<!-- Snake Game Animation
 <p align="center">
   <img src="https://github.com/AlexKlaus254/AlexKlaus254/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+</p> -->
 
 ---
 
-## Connect with Me
 
-<p>
-  <a href="mailto:alexklausofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-alexklausofficial@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+## Connect with Me 
+<h2 align="left">🌐 Let's Connect</h2>
+<p align="center">  
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" alt="Hi animated waving hand" />
+</p>
+
+<style>
+  a:hover img {
+    transform: scale(1.08);
+    transition: transform 0.3s ease-in-out;
+  }
+</style>
+
+
+
+<p align="center">
+  <a href="mailto:alexklausofficial@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48" style="margin: 0 20px;">
   </a>
   <a href="https://www.linkedin.com/in/alex-mwangi-klaus-254724008885-ke/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Alex%20Mwangi%20Ndungu-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" style="margin: 0 20px;">
   </a>
   <a href="https://alexmwangiportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-alexmwangiportfolio.netlify.app-1f72bd?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=netlify" alt="Portfolio" width="48" height="48" style="margin: 0 20px;">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Alex;Data+Craftsman+%7C+Tech+Builder;Let's+Create+Something+Awesome+Together" alt="Typing SVG" /></a>
+  </p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="Hi" />
+</p>
+
+
+
+
 
 ---
 
